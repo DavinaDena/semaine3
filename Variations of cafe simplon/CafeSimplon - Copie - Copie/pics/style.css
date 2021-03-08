@@ -1,0 +1,110 @@
+
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+ul{
+    list-style-type: none;
+    background-color: black;
+    overflow: hidden;
+}
+
+li{
+    float: right;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 30px 20px 30px 10px;
+    text-decoration: none;
+}
+
+ul a:hover{
+    background-color: rgb(54, 49, 49);
+}
+
+.dif{
+    float: left;
+    
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.dif a:hover{
+    background-color: black;
+}
+
+.sec1{
+    color: white;
+    padding: 50px;
+    text-align: center;
+    
+}
+
+h1{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sec1 p{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.back{
+    background-image: url(cafe2.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    background-size: cover;
+    padding-bottom: 100px;
+}
+
+
+
+
+
+
+
+img{
+    width: 30px;
+    height: 30px;
+}
+
+.sec2{
+    
+   text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 268px;
+}
+
+.la{
+    float: left;
+   
+    padding: 10px;
+}
+
+.sec2 .le{
+    float: right;
+}
+
+
+
+
+
+
+.sec3{
+    background-image: url(service.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    background-size: cover;
+    padding-bottom: 100px;
+    padding-top: 100px;
+
+}

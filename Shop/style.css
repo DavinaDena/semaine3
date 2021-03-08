@@ -1,0 +1,42 @@
+.titre{
+    background-color: #46BDC6;
+    color: white;
+    font-family:sans-serif ;
+    font-size: xx-large;
+    padding: 10px;
+}
+
+div{
+    background-color: gainsboro;
+    padding:10px;
+    margin: 10px;
+    padding-left: 30px;
+
+}
+
+h3{ color: goldenrod;}
+
+h1{
+    margin-left: 10px;
+    text-decoration: underline chocolate;
+}
+
+.p1{
+    margin-left: 20px;
+}
+
+h2{
+    font-size: ;
+}
+
+.dis{
+    display: none;
+}
+
+a{
+    color: cornflowerblue;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
